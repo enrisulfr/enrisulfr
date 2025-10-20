@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @enrisulfr
-- I’m interested in game development.
+- Hi, I’m @enrisulfr
